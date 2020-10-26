@@ -1,6 +1,6 @@
 let demo = document.querySelector("#demo")
 let style = document.querySelector("#style")
-let str = `/*你好，我是胡文灏
+let str = `/*你好，我是XXX
 * 接下来，我准备利用css画一个神秘的图案
 * 首先，我要准备一个div
 **/
